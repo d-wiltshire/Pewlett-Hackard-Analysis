@@ -44,7 +44,7 @@ According to the analysis in the first deliverable, 72,458 unique current employ
 
 Mentorship-ready employees (Deliverable 2) may not be in the same departments in the same proportions as retiring employees. It would be helpful to compare proportions of retiring employees and mentorship-ready employees by department. To the mentorship_eligibility table (Deliverable 2), I added the department name, and then counted mentorship-ready employees by department.
 
-![mentorship_eligibility_dept](https://user-images.githubusercontent.com/100863488/163622169-53f7f466-c38e-4865-8d16-b81aabe6d018.png)
+
 ![mentorship_eligibility_dept_count](https://user-images.githubusercontent.com/100863488/163622172-3af7704e-b26b-4939-b1d6-225b3b032598.png)
 
 
