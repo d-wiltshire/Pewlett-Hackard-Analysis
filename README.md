@@ -12,6 +12,9 @@ Four bullet points with info:
 - 72,458 unique individuals fall into this age range and may be considering retirement soon.
 - The top category of current titles of individuals in this age group is Senior Engineer, with 25,916 individuals in this category.
 - The second highest category of current titles of individuals in this age group is Senior Staff, with 24,926 individuals in this category. The majority of individuals in this age range, therefore, fall into one of these two groups.
+- There are more individuals in "senior" roles in this age group than individuals who are not in senior roles. For example, there are 25,916 Senior Engineers, but only 9,285 Engineers and 1,090 Assistant Engineers. This speaks to the level of expertise and institutional memory held by employees in this age group.
+
+>> include image of retiring_titles dataframe
 
 
 ### Second Deliverable
