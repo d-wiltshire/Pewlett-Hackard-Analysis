@@ -52,3 +52,6 @@ Mentorship-ready employees may not be in the same departments in the same propor
 #### Identifying the gender of retirement-ready employees. 
 
 I added "gender" to the columns returned for the retirement-eligible group and applied a count. Retirement-ready employees are more likely to be male than female at this company. It would be helpful to compare a similar count of younger employees in order to better understand the ways in which the company culture might shift (or might need to shift) when the retirement-eligible group does retire, and also in order to recruit and retain female employees moving forward. 
+
+![gender](https://user-images.githubusercontent.com/100863488/163622627-ae296147-1199-41f3-8e6a-fba8e184504f.png)
+
