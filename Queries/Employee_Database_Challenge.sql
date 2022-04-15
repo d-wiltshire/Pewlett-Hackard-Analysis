@@ -45,6 +45,7 @@ ORDER BY e.emp_no;
 SELECT * FROM mentorship_eligibility;
 
 
+
 --Additional query 1a
 --Find the employee's department for each dept in the mentorship_eligibility table.
 SELECT me.emp_no, me.first_name, me.last_name, me.birth_date, me.from_date, me.to_date, me.title, d.dept_name
