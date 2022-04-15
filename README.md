@@ -40,17 +40,17 @@ According to the analysis in the first deliverable, 72,458 unique current employ
 
 ### Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-#### Identifying the department of mentorship-ready employees.
+#### 1. Identifying the department of mentorship-ready employees.
 
-Mentorship-ready employees may not be in the same departments in the same proportions as retiring employees. It would be helpful to compare proportions of retiring employees and mentorship-ready employees by department. To the mentorship_eligibility table (Deliverable 2), I added the department name, and then counted mentorship-ready employees by department.
+Mentorship-ready employees (Deliverable 2) may not be in the same departments in the same proportions as retiring employees. It would be helpful to compare proportions of retiring employees and mentorship-ready employees by department. To the mentorship_eligibility table (Deliverable 2), I added the department name, and then counted mentorship-ready employees by department.
 
 ![mentorship_eligibility_dept](https://user-images.githubusercontent.com/100863488/163622169-53f7f466-c38e-4865-8d16-b81aabe6d018.png)
 ![mentorship_eligibility_dept_count](https://user-images.githubusercontent.com/100863488/163622172-3af7704e-b26b-4939-b1d6-225b3b032598.png)
 
 
-#### Identifying the gender of retirement-ready employees. 
+#### 2. Identifying the gender of retirement-ready employees. 
 
-I added "gender" to the columns returned for the retirement-eligible group and applied a count. Retirement-ready employees are more likely to be male than female at this company. It would be helpful to compare a similar count of younger employees in order to better understand the ways in which the company culture might shift (or might need to shift) when the retirement-eligible group does retire, and also in order to recruit and retain female employees moving forward. 
+I added "gender" to the columns returned for the retirement-eligible group (Deliverable 1) and applied a count. Retirement-ready employees are more likely to be male than female at this company. It would be helpful to compare a similar count of younger employees in order to better understand the ways in which the company culture might shift (or might need to shift) when the retirement-eligible group does retire, and also in order to recruit and retain female employees moving forward. 
 
 ![gender](https://user-images.githubusercontent.com/100863488/163622627-ae296147-1199-41f3-8e6a-fba8e184504f.png)
 
