@@ -8,17 +8,14 @@ The purpose of this analysis was to help management understand and prepare for a
 
 The first deliverable included a Retirement Titles table holding all the titles of employees who were born between January 1, 1952 and December 31, 1955. The DISTINCT ON statement was used to limit titles to the most recent title of each employee. In addition, the COUNT() function was used to create a table that has the number of retirement-age employees by most recent job title. Only current employees were included in the analysis.
 
-Four bullet points with info:
 
-
->> include image of retiring_titles dataframe
+![retiring_titles image](https://user-images.githubusercontent.com/100863488/163622816-7dcb7114-45ea-4b10-95d5-d7b6a900c67c.png)
 
 
 ### Second Deliverable
 
 The second deliverable was a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. These would be senior employees who may be good candidates for mentoring by employees considering retirement, in order to help prepare them for more senior roles in the future.
 
-Four bullet points with info:
 
 
 ### Major Takeaways
@@ -28,6 +25,8 @@ Four bullet points with info:
 - The second highest category of current titles of individuals in this age group is Senior Staff, with 24,926 individuals in this category. The majority of individuals in this age range, therefore, fall into one of these two groups.
 - There are more individuals in "senior" roles in this age group than individuals who are not in senior roles. For example, there are 25,916 Senior Engineers, but only 9,285 Engineers and 1,090 Assistant Engineers. This speaks to the level of expertise and institutional memory held by employees in this age group.
 - 1,549 employees would be good candidates for mentorship and are included in the second deliverable.
+
+
 
 ## Summary
 
