@@ -4,11 +4,12 @@ The purpose of this analysis was to help management understand and prepare for a
 
 ## Results
 
-(bulleted list with four major points each)
+The first deliverable included a Retirement Titles table holding all the titles of employees who were born between January 1, 1952 and December 31, 1955. The DISTINCT ON statement was used to limit titles to the most recent title of each employee. In addition, the COUNT() function was used to create a table that has the number of retirement-age employees by most recent job title. Only current employees were included in the analysis.
 
-The first deliverable was
+Four bullet points with info:
 
-The second deliverable was 
+
+The second deliverable was a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. These would be senior employees who may be good candidates for mentoring by employees considering retirement, in order to help prepare them for more senior roles in the future.
 
 
 
